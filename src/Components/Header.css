@@ -1,0 +1,16 @@
+.Header{
+    display: flex;
+    border-bottom: 3px solid rgb(182, 182, 182);
+    padding: 20px;
+}
+
+.Header img{
+    margin-left: 50px;
+    width: 250px;
+    margin-top: 10px;
+}
+
+.Button-Box{
+    display: flex;
+    margin-left: 1050px;
+}
