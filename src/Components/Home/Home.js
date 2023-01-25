@@ -8,7 +8,6 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import { Pagination, PaginationItem, Button } from '@mui/material';
-import Modal from "../../AddNote/AddNote"
 
 const Home = () => {
 
@@ -27,12 +26,12 @@ const Home = () => {
         createData('Answered', "Outbound", "9.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
         createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
         createData('Answered', "Outbound", "3.7", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "6.0", "+33112356782", +"33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "9.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "3.7", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
-          createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "6.0", "+33112356782", +"33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "9.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "3.7", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
+        createData('Answered', "Outbound", "16.0", "+33112356782", "+33112356782", "+33112356782", "12-08-2022", "Unarchived", "Add Note"),
       ];
 
   return (
